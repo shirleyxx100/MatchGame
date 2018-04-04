@@ -37,3 +37,7 @@ p {
   align-items: center;
   justify-content: center;
 }
+
+.card:hover {
+  cursor: pointer;
+}
